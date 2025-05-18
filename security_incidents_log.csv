@@ -1,0 +1,4 @@
+日期時間,偵測事件,受影響系統,狀態,備註
+2025-05-18 11:03:08,偵測到可疑活動: unauthorized,Unknown System,需處理,Unauthorized access attempt detected fron IP 192.168.1.100
+2025-05-18 11:03:08,偵測到可疑活動: sql injection,Unknown System,需處理,SQL injection pattern found in query string.
+2025-05-18 11:03:08,偵測到可疑活動: failed login,Unknown System,需處理,Failed login attempt for user admin.

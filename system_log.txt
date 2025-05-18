@@ -1,0 +1,5 @@
+User john logged in successfully.
+Unauthorized access attempt detected fron IP 192.168.1.100
+SQL injection pattern found in query string.
+Failed login attempt for user admin.
+Scheduled beckup completed.
